@@ -117,8 +117,6 @@ To install the required dependencies, use the following command:
 
 pip install -r requirements.txt
 
-Apologies for missing that part earlier. Here's the updated section that includes the note you mentioned:
-
 ## Folder Structure
 
 The project folder has the following structure:
