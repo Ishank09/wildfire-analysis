@@ -37,6 +37,8 @@ The course project involves a comprehensive analysis of the impact of wildfires 
 
 USGS_Wildland_Fire_Combined_Dataset.json: The common analysis research question is based on one specific dataset which can be found at Combined wildland fire datasets for the United States and certain territories, 1800s-Present (combined wildland fire polygons). This dataset was collected and aggregated by the US Geological Survey. The dataset is relatively well documented. Fire polygons are available in ArcGIS and GeoJSON formats. We have been assigned one US city that will form the basis for our individual analysis. We can find our individual US city assignment from this Google spreadsheet.
 
+source: https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81
+
 The below sample codes were referenced for the following tasks and have been provided under the Creative Commons CC-BY license:
 
 1. Sample notebook for Geodetic Distance Computation
