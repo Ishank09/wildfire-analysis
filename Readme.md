@@ -57,18 +57,18 @@ Viz 1:
 This histogram illustrates the distribution of wildfires based on their proximity to a specific city. The x-axis represents distance from the city in miles, divided into 50-mile intervals, while the y-axis indicates the number of wildfires.
 
 
-![alt text](/images/viz 1.png)
+![alt text](/images/viz1.png)
 
 
 Viz 2:
 This time series graph portrays the total acres burned by wildfires per year within a specified distance from the city. The x-axis represents the years, while the y-axis indicates the total acres burned by wildfires.
 
-![alt text](/images/viz 2.png)
+![alt text](/images/viz2.png)
 
 
 Viz 3:
 This time series graph presents the trends of the estimated fire smoke impact and the Air Quality Index (AQI) estimate for the city over the years. The x-axis represents the years, while the y-axis indicates the respective values of the fire smoke estimate and the AQI estimate.
-![alt text](/images/viz 3.png)
+![alt text](/images/viz3.png)
 
 ## Project Structure
 
