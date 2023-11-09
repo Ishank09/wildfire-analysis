@@ -11,6 +11,28 @@ More and more frequently, summers in the western US have been characterized by w
 
 The dataset used for this analysis is the Combined Wildland Fire Datasets for the United States and certain territories, 1800s-Present (combined wildland fire polygons) collected and aggregated by the US Geological Survey. The project extracts and processes data using Python modules and various data processing techniques.
 
+## Data Sources
+The following is the data source:
+
+USGS_Wildland_Fire_Combined_Dataset.json: The common analysis research question is based on one specific dataset which can be found at Combined wildland fire datasets for the United States and certain territories, 1800s-Present (combined wildland fire polygons). This dataset was collected and aggregated by the US Geological Survey. The dataset is relatively well documented. Fire polygons are available in ArcGIS and GeoJSON formats. We have been assigned one US city that will form the basis for our individual analysis. We can find our individual US city assignment from this Google spreadsheet.
+
+The below sample codes were referenced for the following tasks and have been provided under the Creative Commons CC-BY license:
+
+Sample notebook for Geodetic Distance Computation
+Sample code for accessing the US EPA Air Quality System API
+Sample code for GeoJSON reader
+
+Link: https://drive.google.com/drive/folders/1OJktGAx86hvMtirCUkGnS292r-FpPvLo
+
+## Reproducing the analysis
+To reproduce this analysis, follow these steps:
+
+1. Clone this repository to the local machine.
+2. Ensure that Python is installed with the required libraries.
+3. Download the GeoJSON Files.zip from this link and extract the "USGS_Wildland_Fire_Combined_Dataset.json" file and place it under the data folder.
+4. Run wildfire_analysis.ipynb to generate smoke analysis, AQI analysis, comparision between them etc.
+Analyze the results.
+
 ## Data Filtering and Preprocessing
 
 Data filtering and preprocessing involve selecting fire perimeters within 1250 miles of McMinnville City, enabling the extraction of relevant fire data for analysis.
